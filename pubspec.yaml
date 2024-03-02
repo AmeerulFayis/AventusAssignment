@@ -37,8 +37,6 @@ dependencies:
   cupertino_icons: ^1.0.6
   hive:
   hive_flutter:
-  flutter_easyloading:
-  flutter_slidable:
 
 dev_dependencies:
   flutter_test:
